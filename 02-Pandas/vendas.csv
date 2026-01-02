@@ -1,0 +1,101 @@
+data,loja,produto,valor_venda
+2024-01-01,Matriz,Teclado,151
+2024-01-02,Filial A,Teclado,293
+2024-01-03,Filial A,Mouse,140
+2024-01-04,Filial B,Notebook,481
+2024-01-05,Filial B,Monitor,496
+2024-01-06,Filial A,Mouse,179
+2024-01-07,Filial A,Notebook,498
+2024-01-08,Filial A,Teclado,340
+2024-01-09,Filial A,Notebook,464
+2024-01-10,Filial A,Teclado,353
+2024-01-11,Matriz,Notebook,357
+2024-01-12,Filial B,Notebook,138
+2024-01-13,Matriz,Teclado,162
+2024-01-14,Matriz,Monitor,81
+2024-01-15,Matriz,Teclado,94
+2024-01-16,Filial B,Monitor,303
+2024-01-17,Filial B,Notebook,425
+2024-01-18,Filial A,Notebook,172
+2024-01-19,Filial B,Mouse,464
+2024-01-20,Matriz,Notebook,326
+2024-01-21,Matriz,Mouse,85
+2024-01-22,Filial A,Monitor,90
+2024-01-23,Filial B,Notebook,244
+2024-01-24,Filial A,Mouse,440
+2024-01-25,Filial A,Notebook,423
+2024-01-26,Matriz,Mouse,472
+2024-01-27,Matriz,Teclado,124
+2024-01-28,Filial A,Mouse,128
+2024-01-29,Matriz,Teclado,72
+2024-01-30,Filial B,Teclado,391
+2024-01-31,Filial A,Mouse,366
+2024-02-01,Filial A,Teclado,60
+2024-02-02,Filial B,Notebook,415
+2024-02-03,Filial B,Notebook,193
+2024-02-04,Filial B,Notebook,402
+2024-02-05,Filial B,Teclado,162
+2024-02-06,Matriz,Teclado,236
+2024-02-07,Matriz,Mouse,203
+2024-02-08,Filial B,Monitor,385
+2024-02-09,Matriz,Teclado,241
+2024-02-10,Matriz,Notebook,358
+2024-02-11,Matriz,Mouse,315
+2024-02-12,Filial B,Monitor,475
+2024-02-13,Matriz,Monitor,165
+2024-02-14,Filial B,Notebook,335
+2024-02-15,Filial B,Monitor,329
+2024-02-16,Filial B,Monitor,76
+2024-02-17,Filial B,Monitor,107
+2024-02-18,Filial B,Monitor,236
+2024-02-19,Matriz,Mouse,407
+2024-02-20,Filial B,Mouse,250
+2024-02-21,Filial A,Notebook,146
+2024-02-22,Filial B,Monitor,177
+2024-02-23,Filial B,Mouse,144
+2024-02-24,Filial A,Monitor,398
+2024-02-25,Filial A,Mouse,143
+2024-02-26,Filial A,Teclado,241
+2024-02-27,Filial A,Mouse,153
+2024-02-28,Filial A,Mouse,178
+2024-02-29,Matriz,Monitor,303
+2024-03-01,Filial A,Teclado,470
+2024-03-02,Matriz,Monitor,74
+2024-03-03,Filial A,Notebook,248
+2024-03-04,Matriz,Teclado,292
+2024-03-05,Filial B,Mouse,245
+2024-03-06,Matriz,Monitor,448
+2024-03-07,Filial A,Mouse,333
+2024-03-08,Filial A,Monitor,433
+2024-03-09,Matriz,Teclado,63
+2024-03-10,Matriz,Monitor,367
+2024-03-11,Matriz,Mouse,497
+2024-03-12,Filial A,Monitor,195
+2024-03-13,Filial B,Teclado,223
+2024-03-14,Filial A,Mouse,62
+2024-03-15,Filial A,Mouse,340
+2024-03-16,Filial B,Mouse,301
+2024-03-17,Matriz,Notebook,288
+2024-03-18,Filial B,Teclado,129
+2024-03-19,Matriz,Monitor,62
+2024-03-20,Matriz,Monitor,263
+2024-03-21,Filial A,Mouse,437
+2024-03-22,Filial A,Monitor,137
+2024-03-23,Matriz,Mouse,74
+2024-03-24,Filial B,Teclado,256
+2024-03-25,Filial B,Teclado,202
+2024-03-26,Filial B,Mouse,152
+2024-03-27,Filial B,Teclado,198
+2024-03-28,Matriz,Monitor,244
+2024-03-29,Filial B,Mouse,251
+2024-03-30,Filial B,Monitor,790
+2024-03-31,Matriz,Notebook,205
+2024-04-01,Filial B,Teclado,132
+2024-04-02,Matriz,Teclado,342
+2024-04-03,Filial B,Mouse,362
+2024-04-04,Filial A,Notebook,44100
+2024-04-05,Filial B,Notebook,15000
+2024-04-06,Filial B,Mouse,50000
+2024-04-07,Filial B,Mouse,247
+2024-04-08,Filial B,Teclado,297
+2024-04-09,Matriz,Teclado,10000
